@@ -21,8 +21,9 @@ It is built using HTML, CSS, and JavaScript, and designed to provide a professio
 
 1. Clone or download the repository:
 
+```bash
     git clone https://github.com/ShriBangera/Portfolio.git
-
+```
 
 2. Open index.html in a web browser.
 
